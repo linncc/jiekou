@@ -36,22 +36,6 @@ CCTV-14少儿,http://kxrj.site:998/123/mg.php?id=cctv14
 CCTV-15音乐,http://kxrj.site:998/123/mg.php?id=cctv15
 CCTV-17农业,http://kxrj.site:998/123/mg.php?id=cctv17
 
-CCTV-1综合,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no
-CCTV-2财经,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=no
-CCTV-3综艺,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=no
-CCTV-4财经,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no
-CCTV-5体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265005/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=no
-CCTV-6电影,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=no
-CCTV-7军事,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=no
-CCTV-8电视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=no
-CCTV-9纪录,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=no
-CCTV-10科教,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=no
-CCTV-11戏曲,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
-CCTV-12社会,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=no
-CCTV-13新闻,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=no
-CCTV-14少儿,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=no
-CCTV-15音乐,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no
-CCTV-17农业,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000268004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=no
 
 CCTV-1综合,http://p.ytelc.com/169l/0/aikan.php?id=cctv1
 CCTV-2财经,http://p.ytelc.com/169l/0/aikan.php?id=cctv2
@@ -161,7 +145,10 @@ CHC家庭影院,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227986/index.m3u8
 金手指,https://ikcdn01.ikzybf.com/20240213/xZTh2qQA/2000kb/hls/index.m3u8#https://ikcdn01.ikzybf.com/20240213/xZTh2qQA/index.m3u8#https://yzzy1.play-cdn1.com/20240213/16167_249c33f2/2000k/hls/index.m3u8#https://yzzy1.play-cdn1.com/20240213/16167_249c33f2/index.m3u8
 金手指,https://yzzy1.play-cdn1.com/20240213/16166_adb7cace/2000k/hls/index.m3u8#https://yzzy1.play-cdn1.com/20240213/16166_adb7cace/index.m3u8
 缉恶,https://cdn.zui.cm:2022/api/a26b96f2df8a8d1b7b66c6cb013a1680.m3u8?token=a7e9lTUNIl1TNwpSB00RrbY2KFoUwtxSV5jUYhBf+0c7xmCyEnDlZfKfjYud&svip.m3u8#https://yzzy1.play-cdn1.com/20240212/16107_ce5c69e6/2000k/hls/index.m3u8#https://yzzy1.play-cdn1.com/20240212/16107_ce5c69e6/index.m3u8#https://top.1080pzy.co/202402/12/XSsKhkbrtA3/video/1000k_0X720_64k_25/hls/index.m3u8#https://top.1080pzy.co/202402/12/XSsKhkbrtA3/video/index.m3u8
-瞒天过海,https://hnzy.bfvvs.com/play/YerrBPke/index.m3u8#https://cdn.zui.cm:2022/api/6226fc85a0a72bc8a7a22e6452922ffd.m3u8?token=f83evj3wntjicMRBEc9WER6ZjpudD/Kp922gdBfCnVZ9g+qcHFWnL+nlbwfg&svip.m3u8#https://v.cdnlz12.com/20240211/11542_019e26ed/2000k/hls/mixed.m3u8#https://v.cdnlz12.com/20240211/11542_019e26ed/index.m3u8
+瞒天过海,https://hnzy.bfvvs.com/play/YerrBPke/index.m3u8
+瞒天过海,https://cdn.zui.cm:2022/api/6226fc85a0a72bc8a7a22e6452922ffd.m3u8?token=f83evj3wntjicMRBEc9WER6ZjpudD/Kp922gdBfCnVZ9g+qcHFWnL+nlbwfg&svip.m3u8
+瞒天过海,https://v.cdnlz12.com/20240211/11542_019e26ed/2000k/hls/mixed.m3u8
+瞒天过海,https://v.cdnlz12.com/20240211/11542_019e26ed/index.m3u8
 目中无人2,https://yzzy1.play-cdn1.com/20240210/15952_004b2a47/2000k/hls/index.m3u8#https://yzzy1.play-cdn1.com/20240210/15952_004b2a47/index.m3u8
 非诚勿扰3,https://yzzy1.play-cdn20.com/20240210/16640_403958bf/2000k/hls/index.m3u8#https://yzzy1.play-cdn20.com/20240210/16640_403958bf/index.m3u8#https://ukzy.ukubf3.com/20240210/JsOQnsE4/2000kb/hls/index.m3u8#https://ukzy.ukubf3.com/20240210/JsOQnsE4/index.m3u8
 孤注一掷,https://leshiyuncdn.ahjunqin.top/20240131/0H4nFCp0/index.m3u8
