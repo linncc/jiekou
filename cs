@@ -1,5 +1,5 @@
 💝央视频道💝,#genre#
-CCTV,https://ldncctvwbcdbd.a.bdydns.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8
+CCTV,https://ldncctvwbcdbd.a.bdydns.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?BR=hd
 CCTV-1综合,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227479/index.m3u8
 CCTV-2财经,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
 CCTV-3综艺,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227435/index.m3u8
